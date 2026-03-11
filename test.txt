@@ -1,0 +1,9 @@
+This is my first Git practice file.
+
+Name: Mehar Sharma
+Date: 11-3-2026
+
+Learning Git operations:
+1. commit
+2. push
+3. pull
